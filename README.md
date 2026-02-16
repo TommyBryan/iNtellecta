@@ -31,3 +31,6 @@ cd iNtellecta
 npm install  
 npm run dev  
 ```
+
+## Link to page:
+https://intellecta-peach.vercel.app/
